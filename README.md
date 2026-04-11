@@ -38,5 +38,5 @@ This project is built with pure `C++` and the Windows `Win32 API`, so you do not
 - map obstacles
 
 ## Download
-Download the Windows build from the link : https://github.com/muksit1/Zombie_Shooter/commits/v1.0
+Download the Windows build from the link : https://github.com/muksit1/Zombie_Shooter/releases/download/v1.0/zombie_game.zip
 
